@@ -13,9 +13,13 @@ PulseChat is a real-time chat application built with Node.js, Socket.io, HTML, a
 # Technologies Used
 
 • Node.js: Backend server runtime.
+
 • Socket.io: Real-time communication between the server and clients.
+
 • HTML: Frontend structure.
+
 • CSS: Styling for a visually appealing interface.
+
 
 # Contributing
 
